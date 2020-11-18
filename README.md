@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Alexa Home WebRadio Home Assistant V 1.0</h1>
-<img class="aligncenter size-full wp-image-1429" src="https://domhouse.it/wp-content/uploads/2020/11/001.png" alt="" width="589" height="492" />
+<img class="aligncenter size-full wp-image-1447" src="https://domhouse.it/wp-content/uploads/2020/11/01-2.png" alt="" width="515" height="462" />
 
 <h3 style="text-align: center;"> ITALIAN Support </h3>
 
@@ -32,7 +32,7 @@ Download: <a href="https://domhouse.it/download/1439/" target="_blank" rel="noop
  	<li>Volume level:  Riporta il volume di alexa al massimo quando la radio va in off</li>
 </ul>
 
-<img class="aligncenter size-full wp-image-1427" src="https://domhouse.it/wp-content/uploads/2020/11/05.png" alt="" width="1019" height="642" />
+<img class="aligncenter size-full wp-image-1427" src="https://domhouse.it/wp-content/uploads/2020/11/005.png" alt="" width="1019" height="642" />
 
 
 3. Salva le modifiche e riavvia Home Assitant.
